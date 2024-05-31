@@ -4,5 +4,6 @@ Minimal repository used to centralize the storage of static images and other ass
 
 ## Images
 
-CalSim3 Icon
-[CalSim3 Icon](./images/calsim3_icon.png)
+| Name         |       |
+| ------------ | ----- |
+| CalSim3 Icon | <img src="./images/calsim3_icon.svg" alt="CalSim3 Icon" width="50"/> |
